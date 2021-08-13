@@ -10,7 +10,7 @@
 
 ` Clone the repo`
 
-` cd pookalam `
+` cd Pookalam `
 
 ` python3 -m venv venv`
 
